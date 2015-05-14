@@ -1,0 +1,12 @@
+U:\544\Final Project\VideoPoker\VideoPoker\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\544\Final Project\VideoPoker\VideoPoker\bin\Debug\VideoPoker.exe
+U:\544\Final Project\VideoPoker\VideoPoker\bin\Debug\VideoPoker.pdb
+U:\544\Final Project\VideoPoker\VideoPoker\obj\x86\Debug\VideoPoker.exe
+U:\544\Final Project\VideoPoker\VideoPoker\obj\x86\Debug\VideoPoker.pdb
+D:\Documents and Settings\coplin\Desktop\Final_Project_Coplin\VideoPoker\obj\x86\Debug\VideoPoker.exe
+D:\Documents and Settings\coplin\Desktop\Final_Project_Coplin\VideoPoker\obj\x86\Debug\VideoPoker.pdb
+D:\Documents and Settings\coplin\Desktop\Final_Project_Coplin\VideoPoker\bin\Debug\VideoPoker.exe
+D:\Documents and Settings\coplin\Desktop\Final_Project_Coplin\VideoPoker\bin\Debug\VideoPoker.pdb
+D:\Documents and Settings\coplin\Desktop\Final_Project_Coplin\VideoPoker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Downloads\Coplin\Coplin_Matthew_Final_Project_Coplin\VideoPoker\obj\x86\Debug\VideoPoker.exe
+C:\Users\Matt\Downloads\Coplin\Coplin_Matthew_Final_Project_Coplin\VideoPoker\obj\x86\Debug\VideoPoker.pdb
